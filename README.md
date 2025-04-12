@@ -1,2 +1,2 @@
 # Soduko-game
-This is a sodoku game creted in c++.
+This is a sodoku game and soduko solver created in c++. Graphics are added through raylib library
